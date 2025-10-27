@@ -10,7 +10,7 @@ Une application **Auto ML** interactive développée avec **Streamlit** permetta
 
 ## 🖼️ Aperçu
 
-![Streamlit App Screenshot](MLApp.PNG)
+![Streamlit App Screenshot](MLapp.PNG)
 
 ---
 
