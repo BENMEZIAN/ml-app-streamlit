@@ -58,9 +58,9 @@ Une application **Auto ML** interactive développée avec **Streamlit** permetta
 
 ### 🔹 1. Cloner le dépôt
 
-git clone https://github.com/BENMEZIAN/ml-app-streamlit.git
-cd ml-app-streamlit
-pip install -r requirements.txt
+- git clone https://github.com/BENMEZIAN/ml-app-streamlit.git
+- cd ml-app-streamlit
+- pip install -r requirements.txt
 
 ### 🔹 2. Lancer l’application
 streamlit run ml.py
